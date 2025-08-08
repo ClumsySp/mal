@@ -1,0 +1,14 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-o",
+      "main",
+      "step0_repl.cpp"
+    ],
+    "directory": "/home/clums/dev/mal/impls/cpp",
+    "file": "/home/clums/dev/mal/impls/cpp/step0_repl.cpp",
+    "output": "/home/clums/dev/mal/impls/cpp/main"
+  }
+]
